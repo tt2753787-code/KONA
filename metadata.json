@@ -1,0 +1,6 @@
+{
+  "name": "KONANA - Obsidian Encrypted Social Mesh & Simulator",
+  "description": "Next-generation encrypted social mobile simulator and architecture inspector featuring Obsidian Cyan Luxury design, P2P mesh discovery, Signal E2EE messaging, and relational cloud graph.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
